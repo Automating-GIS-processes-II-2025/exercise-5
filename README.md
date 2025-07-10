@@ -27,6 +27,17 @@ or use any other packages you’ve come across.
 
 Let your creativity run free, and show us what you’ve learnt!
 
+#### (Almost) no immediate feedback
+
+Whenever you push and submit your work, an automated process will check your
+submission and tell you how many points you have achieved, so far.
+
+This week the feedback will simply test if you have created the maps and the more
+detailed feedback will be provided by the course teachers. 
+
+You can find this feedback in the [‘Pull Request’](../pull/1) that has been
+automatically opened when you [accepted the GitHub classroom 
+assignment](#).
 
 ## Start working
 
