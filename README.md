@@ -6,7 +6,6 @@ goal is to allow you to concentrate on cartographic visualisation using Python
 tools. The task is to play around, explore different possibilities and maybe try
 out other visualisation packages than we used in the lesson.
 
-- **Exercise 5 is due by Thursday, 5 December 2024, end of day**
 
 - Scores on this exercise are out of **20 points**.
 
